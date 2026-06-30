@@ -1,0 +1,1 @@
+console.log("Samuel Bakery Website Started");
